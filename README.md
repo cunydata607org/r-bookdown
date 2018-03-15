@@ -12,11 +12,11 @@ Using data from the [fivethirtyeight](http://fivethirtyeight.com/) website, our 
 
 ## Project Planning
 
-Please check out the "[Projects](https://github.com/cunydata607/r-bookdown/projects)" tab in GitHub and click on the "[tidyverse r-bookdown project](https://github.com/cunydata607/r-bookdown/projects/1)" and **create a new card to let the group know what you are working on**.  
+Please check out the "[Projects](https://github.com/cunydata607org/r-bookdown/projects)" tab in GitHub and click on the "[tidyverse r-bookdown project](https://github.com/cunydata607org/r-bookdown/projects/1)" and **create a new card to let the group know what you are working on**.  
 
-Also please **add items to the [Book_Structure.md file](https://github.com/cunydata607/r-bookdown/blob/master/Book_Structure.md) and add your name next to items you want to workj on**.
+Also please **add items to the [Book_Structure.md file](https://github.com/cunydata607org/r-bookdown/blob/master/Book_Structure.md) and add your name next to items you want to workj on**.
 
-**Questions and issues** should be added to the [Issues](https://github.com/cunydata607/r-bookdown/issues) tab.
+**Questions and issues** should be added to the [Issues](https://github.com/cunydata607org/r-bookdown/issues) tab.
 
 ## Working in Github
 
@@ -54,14 +54,14 @@ To learn more about how to work with bookdown you can check out this book writte
 
 ## Kanban Board (Projects)
 
-I have created a Kanban Board project on the "[Projects](https://github.com/cunydata607/r-bookdown/projects)" tab in GitHub named "[tidyverse r-bookdown project](https://github.com/cunydata607/r-bookdown/projects/1)" that I suggest we use to help organize the distribution of tasks and keep track of who is working on what.  There are basic instructions about how to use the project board in the project itself on the left side, so check it out! **Please create a new card to let the group know what you are working on**.  
+I have created a Kanban Board project on the "[Projects](https://github.com/cunydata607org/r-bookdown/projects)" tab in GitHub named "[tidyverse r-bookdown project](https://github.com/cunydata607org/r-bookdown/projects/1)" that I suggest we use to help organize the distribution of tasks and keep track of who is working on what.  There are basic instructions about how to use the project board in the project itself on the left side, so check it out! **Please create a new card to let the group know what you are working on**.  
 
 ## Adding Contributions to the Repository
 
 There are basically two wasy to contribute to the repository.
 
-1. If you are an admin, you can make changes and comit them directly to the cunydata607/r-bookdown repo. 
-2. If you are not an admin, you can fork the repo, make changes to your forked version and submit a pull request that one of the admins will need to approve and merge with the master branch of the cunydata607/r-bookdown repo.  
+1. If you are an admin, you can make changes and comit them directly to the cunydata607org/r-bookdown repo. 
+2. If you are not an admin, you can fork the repo, make changes to your forked version and submit a pull request that one of the admins will need to approve and merge with the master branch of the cunydata607org/r-bookdown repo.  
 
 If you are not fimiliar with how to use GitHub please see the links above for lots of great tutorials and info.  I particularly recommend [this video](https://www.youtube.com/watch?v=yr6IzOGoMsQ) to understand a basic GitHub workflow.
 
